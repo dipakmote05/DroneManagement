@@ -1,0 +1,38 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ======================
+# Environment / Secrets
+# ======================
+.env
+
+# ======================
+# Virtual Environment
+# ======================
+venv/
+.env/
+
+# ======================
+# Database / Runtime
+# ======================
+*.sqlite
+*.db
+instance/
+
+# ======================
+# IDE / OS
+# ======================
+.vscode/
+.idea/
+.DS_Store
+.env
+venv/
+__pycache__/
+*.pyc
+*.sqlite
+instance/
